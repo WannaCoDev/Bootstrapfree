@@ -1,4 +1,4 @@
-# [Bootstrap3] adapted to Impresspages 4.x verion.
+# [Bootstrap3] adapted to Impresspages 4.x version.
 
 The theme comes with 3 layouts. 
 
