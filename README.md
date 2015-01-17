@@ -20,7 +20,7 @@ rightmenu.php with the menu on the right side of course.
 [      (  footer) col-md-12                    ]
 
 
-The Text widget comes with usefull Bootstrap classes, you can find them under the "Formats" where the FontAwesome class is also listed but is only used to control the icon size.  Bootstrap reponsive utility classes can also be used within the "Fotmats" menu so you can hide content depending on the device.
+The Text widget comes with usefull Bootstrap classes, you can find them under the "Formats" where the FontAwesome class is also listed but is only used to control the icon size.  Bootstrap responsive utility classes can also be used within the "Fotmats" menu so you can hide content depending on the device.
 
 In order to use the image formats, you have to install the filemanager plugin.
 
