@@ -14,6 +14,8 @@ $('.logo > a').attr('class','navbar-brand');
 $('.ipWidget-Map').css({"height": "100%", "width": "100%"});
 $('.ipWidget-Map > div.ui-resizable').css({"height": "100%", "width": "100%"});
 
-
+if($('body').hasClass('ipHasAdminNavbar ipHasAdminPanel')) {
+$('.modal-dialog').css('z-index', '1600');
+}
 
 });
